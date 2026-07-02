@@ -1,0 +1,4 @@
+hook_debug.log
+focus_vscode.ps1
+__pycache__/
+*.pyc
